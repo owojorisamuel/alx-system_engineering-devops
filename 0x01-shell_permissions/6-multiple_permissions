@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod 421 401 400 hello
+=======
+chmod 777 777 777 hello
+>>>>>>> d6f89babee52a7e87302fb84d838b504913ee443
