@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 chmod 751 hello
-=======
-chmod 751 555 hello
->>>>>>> d027a0f15f73f11827c02b4fc3ea444436208c07
