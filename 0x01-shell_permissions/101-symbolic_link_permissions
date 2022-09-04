@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --preserve-root vincent:staff _hello
+chown --preserve-$USER vincent _hello, chgrp --preserve-$USER staff _hello
