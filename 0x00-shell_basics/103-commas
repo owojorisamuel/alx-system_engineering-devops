@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mapv \n
+ls -m -a -p -v \n
