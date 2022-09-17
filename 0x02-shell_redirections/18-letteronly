@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/ssh/sshd_config | grep [[:upper:]]* | ls -1
+cat /etc/ssh/sshd_config | grep [[:upper:]]*
